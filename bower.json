@@ -8,6 +8,10 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-
+    "firebase": "~1.1.2",
+    "angularfire": "~0.8.2"
+  },
+  "resolutions": {
+    "firebase": "~1.1.2"
   }
 }
