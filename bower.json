@@ -1,0 +1,13 @@
+{
+  "name": "firebase-angular-famous",
+  "version": "0.1.0",
+  "homepage": "https://github.com/marcusnielsen/firebase-angular-famous",
+  "authors": [
+    "Marcus Nielsen <marcus.nielsen82@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+
+  }
+}
